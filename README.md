@@ -1,17 +1,17 @@
-# 🎮 Loja de Games
+# Loja de Games
 
 Projeto fictício de um site de loja de games, desenvolvido de forma colaborativa durante a atividade prática da disciplina, utilizando Git e GitHub para simular um fluxo real de trabalho em equipe.
 
 ---
 
-## 📚 Sobre o Projeto
+## Sobre o Projeto
 
 **Atividade:** Git e GitHub: História, Funcionamento e Trabalho em Equipe  
 O projeto foi construído em etapas por 4 grupos, cada um responsável por uma parte do desenvolvimento e do aprendizado sobre Git e GitHub.
 
 ---
 
-## 👥 Grupos e Responsabilidades
+## Grupos e Responsabilidades
 
 | Grupo | Tema | Contribuição no Projeto |
 |-------|------|------------------------|
@@ -22,7 +22,7 @@ O projeto foi construído em etapas por 4 grupos, cada um responsável por uma p
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -31,7 +31,7 @@ O projeto foi construído em etapas por 4 grupos, cada um responsável por uma p
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 loja-games/
@@ -45,7 +45,7 @@ loja-games/
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Clone o repositório:
    ```bash
@@ -63,7 +63,7 @@ loja-games/
 
 ---
 
-## 📝 Padrão de Commits
+## Padrão de Commits
 
 Adotamos mensagens de commit claras e objetivas:
 
@@ -78,7 +78,7 @@ Atualiza README com instruções do projeto
 
 ---
 
-## 🔄 Fluxo de Trabalho Utilizado
+## Fluxo de Trabalho Utilizado
 
 Todos os grupos trabalharam diretamente na branch `main`, seguindo o fluxo abaixo a cada alteração:
 
@@ -98,7 +98,7 @@ git push
 
 ---
 
-## ✅ Boas Práticas Adotadas
+## Boas Práticas Adotadas
 
 - Commits frequentes a cada nova alteração
 - Mensagens de commit descritivas e no imperativo
@@ -107,7 +107,7 @@ git push
 
 ---
 
-## 📌 Integrantes do Grupo 4
+## Integrantes do Grupo 4
 
 - [Wallison]
 - [Gabriel Habacuqui]
