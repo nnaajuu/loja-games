@@ -31,9 +31,9 @@ body {
     /* IMAGEM DE FUNDO NO BODY */
 
     background-image:
-        linear-gradient(rgba(0, 0, 0, 0.25),
-        rgba(0, 0, 0, 0.25)),
-        url(imagens\imagem.png);
+        linear-gradient(rgba(0, 0, 0, 0.50),
+        rgba(0, 0, 0, 0.50)),
+        url(../imagens/imagem.png);
 
     background-size: cover;
     background-position: center;
